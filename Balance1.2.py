@@ -2,7 +2,7 @@
 """
 Created on Mon Nov  28 16:44:51 2022
 
-@author: Einck(WA2114174 张博文)
+@author: Einck
 
 主要参考：
 https://blog.csdn.net/weixin_43271108/article/details/106713402
